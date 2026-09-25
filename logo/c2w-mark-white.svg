@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Click2Website mark">
+  <circle cx="30" cy="32" r="18.5" fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"
+          stroke-dasharray="81.37 34.87" transform="rotate(54.0 30 32)"/>
+  <path d="M0 0 L0 15.4 L4.3 11.6 L7.2 18 L10.3 16.6 L7.4 10.3 L13.2 10.3 Z" fill="#C9A24A" transform="translate(24.4 24.6)"/>
+</svg>
